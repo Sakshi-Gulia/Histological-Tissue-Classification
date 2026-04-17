@@ -21,14 +21,13 @@ A deep learning project that classifies colorectal tissue types from histologica
 
 ## Project structure
 ```
-├── Assignment1_Updated.ipynb   # Full pipeline: preprocessing, training, evaluation
-└── 14182675_IIDS67682.pdf      # Written report with methodology and analysis
+├── Histological Tissue Classification.ipynb   # Full pipeline: preprocessing, training, evaluation
 ```
 
 ## Setup
 ```bash
 pip install numpy scikit-learn torch matplotlib
-jupyter notebook Assignment1_Updated.ipynb
+jupyter notebook Histological Tissue Classification.ipynb
 ```
 
 ## Reproducibility
